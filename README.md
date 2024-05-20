@@ -1,4 +1,6 @@
 # Is Ocean Local API
+Heavily based on https://github.com/simonepri/is-sea
+
 Installation:
 ```
 git clone https://github.com/noahlb123/is-ocean-local-api
